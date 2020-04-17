@@ -1,0 +1,9 @@
+site_name: mkdocs learning
+nav:
+    - Home: index.md
+    - About: about.md
+
+# theme:
+#   name: material
+#   features:
+#     - tabs
